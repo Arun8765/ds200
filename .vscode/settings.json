@@ -1,0 +1,8 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#392C05",
+        "titleBar.activeBackground": "#503E07",
+        "titleBar.activeForeground": "#FDFAEE"
+    },
+    "notebook.output.textLineLimit": 70
+}
